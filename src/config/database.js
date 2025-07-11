@@ -1,5 +1,5 @@
 import Sequelize from 'sequelize'
-const hostname = 'mitchelmrtp-20251-soft2-db.postgres.database.azure.com'
+const hostname = 'mitchelmrtp-20251-soft2-db2.postgres.database.azure.com'
 const username = 'postgres'
 const password = 'Sistemas0912'
 const database = 'soft2'
